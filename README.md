@@ -145,19 +145,6 @@ Developed using **Python, OpenCV, MediaPipe, PyTorch, Librosa**, and other tools
 - Gesture Detection (Fist): **>95% in bright lighting**
 - Keyword Detection (Whisper): **~98% precision**
 
----
-
-## 🚀 Future Scope
-
-- Integrate YOLOv8 for more complex gesture detection
-- Deploy as a native Android APK using Kivy or React Native
-- Add voice assistant for hands-free control
-- Cloud storage + real-time law enforcement alerts
-- Multilingual voice support for non-English speakers
-- Crime heatmap visualization inside the app
-
----
-
 ## 🧑‍💻 Authors
 
 - **N. Sushanth** – 1608-21-737-002  
