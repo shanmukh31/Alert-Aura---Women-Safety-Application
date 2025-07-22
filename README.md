@@ -73,7 +73,7 @@ Developed using **Python, OpenCV, MediaPipe, PyTorch, Librosa**, and other tools
 - **Input Sources**: Audio emotion, keyword, gesture, motion, decibel, location zone.
 - **Logic**: Rule-based system (if-else logic).
 - **Triggers**:
-  - Send SMS to emergency contact.
+  - Send Whatsapp Alerts to emergency contact.
   - Start **video + audio recording** for 5 seconds.
   - Flash SOS warning on-screen.
 
