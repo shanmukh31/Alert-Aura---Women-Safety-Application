@@ -147,10 +147,9 @@ Developed using **Python, OpenCV, MediaPipe, PyTorch, Librosa**, and other tools
 
 ## 🧑‍💻 Authors
 
-- **N. Sushanth** – 1608-21-737-002  
-- **D. Shanmukhaditya** – 1608-21-737-036  
-- **R. Venkata Anirudh** – 1608-21-737-054  
-- **Guide**: Dr. J. Srinivas (Associate Professor, I.T.)
+- **N. Sushanth** 
+- **D. Shanmukhaditya**  
+- **R. Venkata Anirudh** 
 
 ---
 
